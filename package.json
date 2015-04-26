@@ -1,0 +1,34 @@
+{
+  "name": "hubot-nickname",
+  "author": {
+    "name": "Stoyan Dimkov",
+    "email": "stoyan.dimkov@gmail.com"
+  },
+  "version": "0.8.0",
+  "description": "Let Hubot know people's nicknames. (CRUD)",
+  "main": "src/nickname",
+  "keywords": [
+    "hubot-scripts",
+    "hubot",
+    "nickname",
+    "fun"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdimkov/hubot-nickname"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/sdimkov/hubot-nickname/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/sdimkov/hubot-nickname/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/sdimkov/hubot-nickname",
+  "readmeFilename": "README.md"
+}
